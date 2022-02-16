@@ -35,7 +35,7 @@ var config = /* <block:config:0> */ {
       data: Utils.numbers({
         count: DATA_COUNT,
         min: -100,
-        max: 100
+        max: 999999999
       })
     }]
   },
